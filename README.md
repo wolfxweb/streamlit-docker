@@ -2,6 +2,8 @@
 
 Este repositório contém uma aplicação simples desenvolvida com Streamlit e empacotada em um contêiner Docker.
 
+**Nota para usuários do Mac M1 (ARM):** Se estiver usando um Mac com chip M1, verifique se todas as dependências necessárias para a arquitetura ARM estão sendo instaladas corretamente no Dockerfile.
+    
 ## Pré-requisitos
 
 - Docker instalado e configurado no seu sistema. Você pode baixar e instalar o Docker a partir do [site oficial](https://www.docker.com/get-started).
@@ -32,7 +34,7 @@ Este repositório contém uma aplicação simples desenvolvida com Streamlit e e
     docker run -p 8501:8501 streamlit_docker
     ```
 
-    **Nota para usuários do Mac M1 (ARM):** Se estiver usando um Mac com chip M1, verifique se todas as dependências necessárias para a arquitetura ARM estão sendo instaladas corretamente no Dockerfile.
+
 
 5. Abra um navegador da web e acesse a aplicação em [http://localhost:8501](http://localhost:8501).
 
