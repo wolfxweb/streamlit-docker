@@ -1,4 +1,4 @@
-# streamlit_docker
+# Streamlit Docker
 
 Este repositório contém uma aplicação simples desenvolvida com Streamlit e empacotada em um contêiner Docker.
 
