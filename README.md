@@ -32,6 +32,8 @@ Este repositório contém uma aplicação simples desenvolvida com Streamlit e e
     docker run -p 8501:8501 streamlit_docker
     ```
 
+    **Nota para usuários do Mac M1 (ARM):** Se estiver usando um Mac com chip M1, verifique se todas as dependências necessárias para a arquitetura ARM estão sendo instaladas corretamente no Dockerfile.
+
 5. Abra um navegador da web e acesse a aplicação em [http://localhost:8501](http://localhost:8501).
 
 ## Estrutura do Projeto
@@ -46,5 +48,10 @@ Sinta-se à vontade para personalizar a aplicação de acordo com suas necessida
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou sugerir melhorias. Se desejar contribuir com código, por favor, abra um pull request e descreva suas alterações em detalhes.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 
 
