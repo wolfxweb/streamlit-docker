@@ -49,7 +49,7 @@ Sinta-se à vontade para personalizar a aplicação de acordo com suas necessida
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou sugerir melhorias. Se desejar contribuir com código, por favor, abra um pull request e descreva suas alterações em detalhes.
+Contribuições são bem-vindas! Se desejar contribuir com código, por favor, abra um pull request e descreva suas alterações em detalhes.
 
 ## Licença
 
