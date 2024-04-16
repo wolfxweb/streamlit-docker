@@ -51,9 +51,5 @@ Sinta-se à vontade para personalizar a aplicação de acordo com suas necessida
 
 Contribuições são bem-vindas! Se desejar contribuir com código, por favor, abra um pull request e descreva suas alterações em detalhes.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
 
 
